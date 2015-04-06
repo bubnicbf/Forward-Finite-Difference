@@ -1,0 +1,7 @@
+(* Built-in function: *)
+i={3,5,12,1,6,19,6,2,4,9};
+Differences[i]
+
+(* The nth difference can be done as follows:8)
+i={3,5,12,1,6,19,6,2,4,9};
+Differences[i,n]
